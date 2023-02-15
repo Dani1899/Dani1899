@@ -1,3 +1,5 @@
+### Привет!
+
 Я **Данил Кондаков**, инженер по тестированию.
 
 ### Вот, что я умею
@@ -13,7 +15,7 @@
 [задание 2](https://docs.google.com/document/d/1Jeaqras8z0mLqS8A3C03LD3xet86zcPFkOUWlJlKJQo/edit?usp=sharing))
 * [Инструменты тестирования. Клиент-сервер](https://disk.yandex.ru/i/QNk1scbTEBvmKw)
 * [Жизненный цикл разработки ПО](https://docs.google.com/document/d/1pgrjrWj0P7Owu4PaTXPWSuDLv5FjLLF07iO90U7G3Ac/edit?usp=sharing)
-##### Домашние работы по курсу "Java для тестировщиков":
+#### Домашние работы по курсу "Java для тестировщиков":
 * Введение в Java, JDK, JRE, JRM, Intellij IDEA
 ([Условие к заданию](https://github.com/netology-code/javaqa-homeworks-video/blob/main/JAVA_INTRO.md),
 [задание](https://github.com/Dani1899/HelloNetology/issues/1))
@@ -30,7 +32,7 @@
 ([Условие к заданию](https://github.com/netology-code/javaqa-homeworks-video/blob/main/MAVEN.md),
 [задание 1](https://github.com/Dani1899/HWBonusMvn),
 [задание 2](https://github.com/Dani1899/bonus-service))
-##### [Тестовое задание для Yandex](https://docs.google.com/document/d/16kVOmofd-EJKHZ62e1wnrN6JGHPYasTdk83zk00sR7w/edit?usp=sharing)
+#### [Тестовое задание для Yandex](https://docs.google.com/document/d/16kVOmofd-EJKHZ62e1wnrN6JGHPYasTdk83zk00sR7w/edit?usp=sharing)
 
 ### Сертификаты Нетологии
 * [Ручное тестирование веб - приложений](https://netology.ru/sharing/556fe4a4db38f5d95857545d33db5ad4?utm_source=social&utm_campaign=achievements)
